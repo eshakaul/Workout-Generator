@@ -1,0 +1,244 @@
+{
+  "exercises": [
+    {
+      "Exercise": "Barbell Bench Press",
+      "Targeted Muscle Group": "Chest",
+      "Key Details": "Lie on the floor or use a stable chair as a substitute for a bench."
+    },
+    {
+      "Exercise": "Dumbbell Goblet Squat",
+      "Targeted Muscle Group": "Quadriceps, Glutes",
+      "Key Details": "Hold a dumbbell or kettlebell with both hands at chest level while performing squats."
+    },
+    {
+      "Exercise": "Kettlebell Swing",
+      "Targeted Muscle Group": "Hamstrings, Glutes",
+      "Key Details": "Stand with feet shoulder-width apart, swing the kettlebell between your legs, and thrust your hips forward to swing it to chest height."
+    },
+    {
+      "Exercise": "Chair Triceps Dips",
+      "Targeted Muscle Group": "Triceps",
+      "Key Details": "Sit on the edge of a chair, grip the front edge, and lower yourself down by bending your elbows."
+    },
+    {
+      "Exercise": "Barbell Deadlift",
+      "Targeted Muscle Group": "Hamstrings, Glutes, Back",
+      "Key Details": "Place the barbell on the floor, bend at the hips and knees to grip it, and stand up by extending your hips and knees."
+    },
+    {
+      "Exercise": "Dumbbell Lunges",
+      "Targeted Muscle Group": "Quadriceps, Glutes",
+      "Key Details": "Hold dumbbells in both hands, step forward with one leg, and lower your body until your front knee is at a 90-degree angle."
+    },
+    {
+      "Exercise": "Kettlebell Turkish Get-Up",
+      "Targeted Muscle Group": "Core, Shoulders",
+      "Key Details": "Lie on the floor, hold a kettlebell straight above you, and proceed to stand up while keeping your arm extended."
+    },
+    {
+      "Exercise": "Chair Step-Ups",
+      "Targeted Muscle Group": "Quadriceps, Glutes",
+      "Key Details": "Step up onto the chair with one foot, pushing through your heel, and then step down. Repeat with the other foot."
+    },
+    {
+      "Exercise": "Barbell Overhead Press",
+      "Targeted Muscle Group": "Shoulders",
+      "Key Details": "Hold the barbell at shoulder level and press it straight up above your head."
+    },
+    {
+      "Exercise": "Dumbbell Bicep Curls",
+      "Targeted Muscle Group": "Biceps",
+      "Key Details": "Hold dumbbells at your sides with palms facing forward and curl them upward, keeping your elbows close to your body."
+    },
+    {
+      "Exercise": "Kettlebell Renegade Row",
+      "Targeted Muscle Group": "Back, Core",
+      "Key Details": "Get into a push-up position with each hand gripping a kettlebell, row one kettlebell up towards your chest while balancing on the other hand."
+    },
+    {
+      "Exercise": "Chair Leg Raises",
+      "Targeted Muscle Group": "Abdominals",
+      "Key Details": "Sit on the edge of the chair, lean back slightly, and raise your legs, bringing your knees towards your chest."
+    },
+    {
+      "Exercise": "Barbell Front Squat",
+      "Targeted Muscle Group": "Quadriceps, Glutes",
+      "Key Details": "Hold the barbell across your collarbone in front of your body and perform squats."
+    },
+    {
+      "Exercise": "Dumbbell Shoulder Press",
+      "Targeted Muscle Group": "Shoulders",
+      "Key Details": "Hold dumbbells at shoulder level and press them overhead, rotating your palms as you lift."
+    },
+    {
+      "Exercise": "Kettlebell Goblet Lunge",
+      "Targeted Muscle Group": "Quadriceps, Glutes",
+      "Key Details": "Hold the kettlebell against your chest with both hands and perform lunges."
+    },
+    {
+      "Exercise": "Chair Push-Ups",
+      "Targeted Muscle Group": "Chest, Shoulders, Triceps",
+      "Key Details": "Place your hands on the edge of the chair, extend your legs behind you, and lower your chest towards the chair, then push back up."
+    },
+    {
+      "Exercise": "Barbell Bent-Over Row",
+      "Targeted Muscle Group": "Back, Biceps",
+      "Key Details": "Bend forward with a flat back, hold the barbell with an overhand grip, and pull it towards your lower abdomen."
+    },
+    {
+      "Exercise": "Dumbbell Romanian Deadlift",
+      "Targeted Muscle Group": "Hamstrings, Glutes, Back",
+      "Key Details": "Hold dumbbells in front of your thighs, hinge at the hips with a slight knee bend, and lower the weights towards the ground while keeping your back straight."
+    },
+    {
+      "Exercise": "Kettlebell Russian Twist",
+      "Targeted Muscle Group": "Abdominals, Obliques",
+      "Key Details": "Sit on the floor, lean back slightly, hold a kettlebell with both hands, and twist your torso from side to side."
+    },
+    {
+      "Exercise": "Chair Step-Ups with Knee Raise",
+      "Targeted Muscle Group": "Quadriceps, Glutes, Core",
+      "Key Details": "Perform chair step-ups but at the top of the movement, bring your opposite knee towards your chest."
+    },
+    {
+      "Exercise": "Barbell Bicep Curls",
+      "Targeted Muscle Group": "Biceps",
+      "Key Details": "Hold the barbell with an underhand grip, arms fully extended, and curl the weight up towards your chest."
+    },
+    {
+      "Exercise": "Dumbbell Lateral Raises",
+      "Targeted Muscle Group": "Shoulders",
+      "Key Details": "Hold dumbbells at your sides, raise your arms out to the sides until they are parallel to the floor, then lower them back down."
+    },
+    {
+      "Exercise": "Kettlebell Figure 8",
+      "Targeted Muscle Group": "Core, Arms",
+      "Key Details": "Stand with feet shoulder-width apart, pass the kettlebell around your legs in a figure 8 motion, switching hand positions."
+    },
+    {
+      "Exercise": "Chair Mountain Climbers",
+      "Targeted Muscle Group": "Abdominals, Shoulders",
+      "Key Details": "Assume a push-up position with your hands on the chair and alternate driving your knees towards your chest."
+    },
+    {
+      "Exercise": "Barbell Lunges",
+      "Targeted Muscle Group": "Quadriceps, Glutes",
+      "Key Details": "Hold the barbell across your upper back, step forward with one leg, and lower your body until your front knee is at a 90-degree angle."
+    },
+    {
+      "Exercise": "Dumbbell Triceps Kickbacks",
+      "Targeted Muscle Group": "Triceps",
+      "Key Details": "Bend forward at the hips, hold dumbbells with arms bent, and extend your arms behind you, squeezing your triceps."
+    },
+    {
+      "Exercise": "Kettlebell Single-Arm Clean and Press",
+      "Targeted Muscle Group": "Shoulders, Back",
+      "Key Details": "Swing the kettlebell between your legs, clean it to shoulder height, and press it overhead."
+    },
+    {
+      "Exercise": "Chair Leg Extensions",
+      "Targeted Muscle Group": "Quadriceps",
+      "Key Details": "Sit on the edge of the chair, extend your legs forward, and then bring them back towards your chest."
+    },
+    {
+      "Exercise": "Barbell Romanian Deadlift",
+      "Targeted Muscle Group": "Hamstrings, Glutes, Back",
+      "Key Details": "Hold the barbell with an overhand grip, hinge at the hips with a slight knee bend, and lower the barbell towards the ground while keeping your back straight."
+    },
+    {
+      "Exercise": "Dumbbell Bent-Over Rows",
+      "Targeted Muscle Group": "Back, Biceps",
+      "Key Details": "Bend forward with a flat back, hold dumbbells with an overhand grip, and pull them towards your lower abdomen."
+    },
+    {
+      "Exercise": "Kettlebell Windmill",
+      "Targeted Muscle Group": "Core, Shoulders, Hamstrings",
+      "Key Details": "Hold the kettlebell overhead with one hand, hinge at the hips, and lower your opposite hand down towards the ground while keeping your legs straight."
+    },
+    {
+      "Exercise": "Chair Dumbbell Press",
+      "Targeted Muscle Group": "Chest, Shoulders",
+      "Key Details": "Sit on the edge of the chair, hold dumbbells at shoulder level, and press them overhead."
+    },
+    {
+      "Exercise": "Barbell Overhead Squat",
+      "Targeted Muscle Group": "Quadriceps, Glutes, Core",
+      "Key Details": "Hold the barbell overhead with arms fully extended, squat down while keeping the barbell steady."
+    },
+    {
+      "Exercise": "Dumbbell Hammer Curls",
+      "Targeted Muscle Group": "Biceps",
+      "Key Details": "Hold dumbbells at your sides with palms facing inward, curl them upward while keeping your elbows close to your body."
+    },
+    {
+      "Exercise": "Kettlebell Single-Leg Deadlift",
+      "Targeted Muscle Group": "Hamstrings, Glutes",
+      "Key Details": "Hold a kettlebell in one hand, hinge forward at the hips while lifting one leg behind you, and lower the kettlebell towards the ground."
+    },
+    {
+      "Exercise": "Chair Plank",
+      "Targeted Muscle Group": "Core, Shoulders",
+      "Key Details": "Assume a push-up position with your hands on the chair and hold the position, keeping your body straight."
+    },
+    {
+      "Exercise": "Barbell Upright Row",
+      "Targeted Muscle Group": "Shoulders, Upper Back",
+      "Key Details": "Hold the barbell with an overhand grip, pull it up towards your chin, keeping it close to your body."
+    },
+    {
+      "Exercise": "Dumbbell Reverse Lunges",
+      "Targeted Muscle Group": "Quadriceps, Glutes",
+      "Key Details": "Hold dumbbells at your sides, step backward with one leg, and lower your body until your back knee is almost touching the ground."
+    },
+    {
+      "Exercise": "Kettlebell Halo",
+      "Targeted Muscle Group": "Shoulders, Triceps",
+      "Key Details": "Hold the kettlebell by the horns with both hands, circle it around your head, and repeat in the opposite direction."
+    },
+    {
+      "Exercise": "Chair Side Leg Raises",
+      "Targeted Muscle Group": "Hip Abductors",
+      "Key Details": "Sit on the edge of the chair, lean to one side, and raise your leg out to the side, then repeat on the other side."
+    },
+    {
+      "Exercise": "Barbell Floor Press",
+      "Targeted Muscle Group": "Chest, Triceps",
+      "Key Details": "Lie on the floor or use a stable chair as a substitute for a bench, hold the barbell above your chest, and press it upwards."
+    },
+    {
+      "Exercise": "Dumbbell Front Raise",
+      "Targeted Muscle Group": "Shoulders",
+      "Key Details": "Hold dumbbells at your sides, raise them straight in front of you until they are at shoulder level, then lower them back down."
+    },
+    {
+      "Exercise": "Kettlebell Goblet Squat to Press",
+      "Targeted Muscle Group": "Quadriceps, Glutes, Shoulders",
+      "Key Details": "Hold a kettlebell at chest level, perform a squat, and as you rise, press the kettlebell overhead."
+    },
+    {
+      "Exercise": "Chair Russian Twists",
+      "Targeted Muscle Group": "Abdominals, Obliques",
+      "Key Details": "Sit on the edge of the chair, lean back slightly, hold your hands together, and twist your torso from side to side."
+    },
+    {
+      "Exercise": "Barbell Bent-Over Reverse Fly",
+      "Targeted Muscle Group": "Shoulders, Upper Back",
+      "Key Details": "Bend forward with a flat back, hold the barbell with an overhand grip, and raise it out to the sides while squeezing your shoulder blades together."
+    },
+    {
+      "Exercise": "Dumbbell Bulgarian Split Squat",
+      "Targeted Muscle Group": "Quadriceps, Glutes",
+      "Key Details": "Hold dumbbells at your sides, place one foot behind you on a chair or sturdy surface, and perform squats with the other leg."
+    },
+    {
+      "Exercise": "Kettlebell Suitcase Deadlift",
+      "Targeted Muscle Group": "Hamstrings, Glutes, Core",
+      "Key Details": "Hold a kettlebell by your side with one hand, hinge at the hips with a slight knee bend, and lift the kettlebell off the ground."
+    },
+    {
+      "Exercise": "Chair Calf Raises",
+      "Targeted Muscle Group": "Calves",
+      "Key Details": "Stand on the edge of the chair, raise your heels as high as possible, and then lower them back down."
+    }
+  ]
+}
